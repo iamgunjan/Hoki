@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "room-type",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "deluxe",
+      "synonyms": [
+        "deluxe"
+      ]
+    }
+  ],
+  "id": "a97dcd82-422f-4288-be8d-714bb48b9664",
+  "isOverridable": false
+}
