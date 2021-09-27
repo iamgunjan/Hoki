@@ -1,4 +1,4 @@
-# Hotel Booking Chatbot
+# Hoki - Hotel Booking Chatbot
 
 ## 📌 Introduction
 Hoki is a Hotel Booking Chatbot, it makes it easy for users to book their choice of hotels in a easy way!
