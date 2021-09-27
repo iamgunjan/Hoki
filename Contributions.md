@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-_Before you start contributing with this project make sure you read our [Code Of Conduct](https://github.com/Techsahead/College-Connect/blob/main/Code%20Of%20Conduct.md), it is really important to make this inclusive and open to everyone, to make it awesome. This repository is created to help developers kickstart their Open Source journey with amazing projects during Hacktoberfest. When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change._
+_Before you start contributing with this project make sure you read our [Code Of Conduct](https://github.com/iamgunjan/Hotel-booking-chatbot/blob/master/Code%20Of%20Conduct.md), it is really important to make this inclusive and open to everyone, to make it awesome. This repository is created to help developers kickstart their Open Source journey with amazing projects during Hacktoberfest. When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change._
 
 
 # How to Contribute
